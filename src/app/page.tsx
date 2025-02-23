@@ -1,7 +1,7 @@
 import styles from '@/app/ui/styles/home.module.css'
 import Image from 'next/image';
 
-export default function Home() {
+export default function Home() { 
   return (
     <main className="flex items-center justify-center min-h-screen bg-gray-50">
             <div className="container mx-auto p-4 relative">
